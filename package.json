@@ -1,0 +1,22 @@
+{
+  "name": "promise-implementation",
+  "version": "0.1.0",
+  "description": "es6 promises feature implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theJian/promise-implementation.git"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "A2ZH",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/theJian/promise-implementation/issues"
+  },
+  "homepage": "https://github.com/theJian/promise-implementation#readme"
+}
